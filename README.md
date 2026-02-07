@@ -7,7 +7,7 @@ The model was implemented **from scratch**, including **manual gradient calculat
 
 ## Embedding Visualization
 <p align="center">
-  <img src="images/embedding.jpeg" width="400"/>
+  <img src="images/embedding.jpeg" width="500"/>
 </p>
 
 ### Embedding Interpretation
